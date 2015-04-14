@@ -1,4 +1,4 @@
-name             'php-windows'
+name             'chef-php-windows'
 maintainer       'Opscode, Inc.'
 maintainer_email 'info@opscode.com'
 license          'All rights reserved'

@@ -1,4 +1,4 @@
-php-windows Cookbook
+chef-php-windows Cookbook
 ====================
 
 Installs and configures PHP on Windows
@@ -15,13 +15,13 @@ Microsoft Azure ACS, blob, xSQL
 Usage
 -----
 
-Just include `php-windows` in your node's `run_list`:
+Just include `chef-php-windows` in your node's `run_list`:
 
 ```json
 {
   "name":"my_node",
   "run_list": [
-    "recipe[php-windows]"
+    "recipe[chef-php-windows]"
   ]
 }
 ```
